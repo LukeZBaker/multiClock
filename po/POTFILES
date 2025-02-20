@@ -1,0 +1,10 @@
+data/io.github.r_sergii.multiClock.desktop.in
+data/io.github.r_sergii.multiClock.appdata.xml.in
+data/io.github.r_sergii.multiClock.gschema.xml
+src/windows/main_window/main_window.ui
+src/main.vala
+src/windows/main_window/main_window.vala
+src/windows/towns_window/towns_window.ui
+src/windows/towns_window/towns_window.vala
+src/windows/language_window/language_window.ui
+src/windows/language_window/language_window.vala
